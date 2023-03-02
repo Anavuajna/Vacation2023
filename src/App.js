@@ -5,13 +5,10 @@ import Hotels from './Hotels';
 
 function App() {
 
-  
-
   return (
     <div className="App">
       <Carousel/>
       <Hotels/>
-      
     </div>
   );
 }
